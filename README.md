@@ -1,1 +1,1 @@
-# 2d-game
+A 2D multiplayer game based on surviv.io that I build to understand the logic between basic movement concepts in games, and to understand the data that needs to be transferred in a basic multiplayer game
